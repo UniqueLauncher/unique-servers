@@ -1,9 +1,0 @@
-{
-  "server-address": ["SkibidiCraft.de"],
-  "pretty-name": "SkibidiCraft",
-  "categorys": ["PVP"],
-  "assets": {
-    "icon": "./icon.png",
-    "background": "./bg.png"
-  }
-}
