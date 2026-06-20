@@ -1,6 +1,6 @@
 # unique-servers
 
-This repository provides server mappings for the Unique Client, allowing servers to have enhanced icons, banners, and metadata displayed in the client.
+This repository provides server mappings for the Unique Client, allowing servers to have enhanced icons, banners, and metadata displayed in the client and later on the website.
 
 ## What is this?
 
