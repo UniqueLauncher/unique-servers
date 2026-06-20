@@ -42,7 +42,7 @@ For more details, see the documentation in the `docs/` directory.
 - Your images are in the wrong format or size
 - Your manifest is unvalid
 
-## Credits to!
+## Credits to
 
 - https://github.com/NoRiskClient/nrc-server-mappings
 
