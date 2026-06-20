@@ -1,10 +1,10 @@
-# nrc-server-mappings
+# unique-servers
 
-This repository provides server mappings for the NoRisk Client, allowing servers to have enhanced icons, banners, and metadata displayed in the client.
+This repository provides server mappings for the Unique Launcher/Client, allowing servers to have enhanced icons, banners, and metadata displayed in the client.
 
 ## What is this?
 
-- Supplies the NoRisk Client with improved server presentation: custom icons, banners, and descriptive metadata.
+- Supplies the Unique Client with improved server presentation: custom icons, banners, and descriptive metadata.
 - Ensures all server assets (icons, backgrounds) follow consistent conventions for best appearance in the client.
 - Contains scripts to validate and merge server manifests into a single distributable format for the client to consume.
 
@@ -41,6 +41,10 @@ For more details, see the documentation in the `docs/` directory.
 - The server is in maintanance or completly offline
 - Your images are in the wrong format or size
 - Your manifest is unvalid
+
+## Credits to!
+
+- https://github.com/NoRiskClient/nrc-server-mappings
 
 ## Ingame looks
 
