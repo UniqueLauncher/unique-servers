@@ -4,7 +4,7 @@ This is a full step-by-step (hopefully) fool proof explanation on how to add you
 
 #### 0. What is this exactly?
 
-This repository provides server mappings for the NoRisk Client, allowing servers to have enhanced icons, banners, and metadata displayed in the client. This happens by supplying a manifest in JSON format. You can find an example on how this JSON can look like [here](https://github.com/NoRiskClient/nrc-server-mappings/blob/main/servers/hypixel/manifest.json).
+This repository provides server mappings for the NoRisk Client, allowing servers to have enhanced icons, banners, and metadata displayed in the client. This happens by supplying a manifest in JSON format. You can find an example on how this JSON can look like [here](https://github.com/UniqueLauncher/unique-servers/blob/main/servers/hypixel/manifest.json).
 
 #### 1. Fork the Repository
 
@@ -14,7 +14,7 @@ To make any changes, like adding your own server, you need to 'fork' the reposit
 
 #### 2. Make your changes
 
-To create your own entry, go to `/servers` in your fork and create a folder named after your server. Then create a `manifest.json` file and fill it like outlined in the [docs](https://github.com/NoRiskClient/nrc-server-mappings/blob/main/docs/manifest.md) for the manifest. Make sure you follow the [conventions](https://github.com/NoRiskClient/nrc-server-mappings/blob/main/docs/conventions.md). Make sure you upload all referenced images and that they follow our guidelines. After you've done all of that it is time to ...
+To create your own entry, go to `/servers` in your fork and create a folder named after your server. Then create a `manifest.json` file and fill it like outlined in the [docs](https://github.com/UniqueLauncher/unique-servers/blob/main/docs/manifest.md) for the manifest. Make sure you follow the [conventions](https://github.com/UniqueLauncher/unique-servers/blob/main/docs/conventions.md). Make sure you upload all referenced images and that they follow our guidelines. After you've done all of that it is time to ...
 
 #### 3. Create the Pull Request
 
