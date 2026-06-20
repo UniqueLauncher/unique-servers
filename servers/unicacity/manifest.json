@@ -3,7 +3,9 @@
     "unicacity.eu"
   ],
   "pretty-name": "UnicaCity",
-  "categorys": [],
+  "categorys": [
+    "CUSTOM"
+  ],
   "assets": {
     "icon": "./icon.png",
     "background": "./bg.png"
