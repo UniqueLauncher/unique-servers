@@ -1,0 +1,20 @@
+{
+  "server-address": [
+    "unicacity.eu"
+  ],
+  "pretty-name": "UnicaCity",
+  "categorys": [],
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  },
+  "socials": {
+    "website": "https://unicacity.eu",
+    "store": "https://unicacity.eu/shop",
+    "discord": "https://discord.gg/unicacity",
+    "youtube": "https://www.youtube.com/channel/UCsH7SpwKBsNaAOlRbb-DC8Q",
+    "instagram": "unicacityeu",
+    "tiktok": "unicacityeu",
+    "teamspeak": "unicacity.eu"
+  }
+}
